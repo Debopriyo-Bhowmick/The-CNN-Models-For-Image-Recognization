@@ -42,6 +42,15 @@ Test Accuracy: 75.58%
 - Cats_And_Dogs_Classifier.ipynb
 - cat_dog_model.keras
 
+#For compiling my code totally the instructions are
+
+-First download the dataset given at the top
+-Then click on this link to go directly to the colab 
+# Cats and Dogs Classifier
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Debopriyo-Bhowmick/The-CNN-Models-For-Image-Recognization/blob/main/Cats_And_Dogs_Classifier.ipynb)
+
+-There you have to paste the dataset in the folder
 #Instruction for using only the model not compile the whole code
 
 -First Download the cat_dog_model.keras
